@@ -29,7 +29,6 @@ import javax.validation.constraints.Size;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.NoArgsConstructor;
-
 /**
  * Simple JavaBean domain object representing a visit.
  *
